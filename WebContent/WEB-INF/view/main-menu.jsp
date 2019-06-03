@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>Halooooo</h2>
+<a href="cust/showForm"> customer</a>
 </body>
 </html>
